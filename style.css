@@ -1,0 +1,23 @@
+.navbar{
+    background-color: aliceblue;
+    font-size: medium;
+    font-family: sans-serif;
+}
+ 
+
+#quemsomos{
+    background-color:palegoldenrod;
+    color: rgb(105, 101, 101);
+    font-family: sans-serif;
+   
+}
+.margin{
+    margin-bottom: 40px;
+    padding-bottom: 40px;
+    color: rgb(105, 101, 101);
+}
+.servicos{
+    padding-top: 10px;
+    padding-bottom: 40px;
+    color: rgb(105, 101, 101);
+}
